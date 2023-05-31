@@ -8,6 +8,6 @@ The measurement is obtained from a range-finder sensor, and it reports the dista
 
 The world map and sensor data can be obtained from the data folder. 
 
-By running the 'particle_filter.py', you can get the following results.
+By running the 'particle_filter.py', the results are visualized as follows. The red dots represents the particles, and mean of particles' estimate is shown using the black arrow. 
 
 ![alt text](mygif.gif)
